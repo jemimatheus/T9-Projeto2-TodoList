@@ -24,7 +24,10 @@ body {
     width: 100%;
     max-width: 30rem;
     padding: 2rem 0; 
+
 }
+
+
 
 .todo__title {
     text-align: center;
@@ -93,3 +96,9 @@ body {
     text-transform: uppercase;
     font-weight: bold;
 } 
+
+
+.todo__btn-excluir{
+    display: flex;
+    align-items: center;
+}
